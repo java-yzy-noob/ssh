@@ -7,6 +7,7 @@
 			<result type="json" name="userJson">
 				<param name="root">userList</param>
 			</result>
+			<result name="userPage">/WEB-INF/view/userPage.jsp</result>
 		</action>
 	</package>
 
